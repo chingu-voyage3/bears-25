@@ -2,13 +2,14 @@
 
 * A platform for coders/developers to share their story, experience, motivation, tutorials, hacks, etc along the coding journey.
 * Mockup - https://xd.adobe.com/spec/06611bd8-a40b-476e-b091-6ced92a67373/
+* [View demo here](https://codestories-v1.herokuapp.com/)
 
 ## Tech stack
 
 * Backend: Node
-* Database: Mongodb
+* Database and authentication: Firebase
 * Middleware Framework: Express
-* Frontend: Vue
+* Frontend: Vue, Vuetify
 
 ## Client User Stories
 
@@ -117,9 +118,17 @@ Follow the table given [here](https://github.com/Chingu-cohorts/pmrok/wiki/Getti
 
 ## Team
 
+### Version 1:
+
 * [Pankajashree](https://github.com/pankaja-shree)
 * [Ramesh syangtan](https://github.com/rameshsyn)
 * [Ipaye Alameen](https://github.com/Ipaye)
+* [Harshil Agrawal](https://github.com/harshil1712)
+
+### Version 2:
+
+* [Pankajashree](https://github.com/pankaja-shree)
+* [Ramesh syangtan](https://github.com/rameshsyn)
 * [Harshil Agrawal](https://github.com/harshil1712)
 
 
